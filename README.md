@@ -109,7 +109,7 @@ Full Stack Developer
 ```java
 public class Developer {
 
-    String name = "Mithujan";
+    String name = "Mithujana";
     String role = "Full Stack Developer";
 
     String[] skills = {
