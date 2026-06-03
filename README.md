@@ -34,6 +34,8 @@ mithujana-sriranjan-4324a4368
 <a href="mailto:mithujanas2305@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mithujana-sriranjan-4324a4368" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/mithujana-sriranjan-4324a4368?trk=profile-badge">Mithujana Sriranjan</a></div>
+              
 
 <a href="https://github.com/Mithujana">
 <img src="https://skillicons.dev/icons?i=github" />
