@@ -25,11 +25,10 @@ Full Stack Developer
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="[www.linkedin.com/in/
-mithujana-sriranjan-4324a4368](https://lk.linkedin.com/in/mithujana-sriranjan-4324a4368?trk=profile-badge)
-">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/mithujana-sriranjan-4324a4368/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 <a href="mailto:mithujanas2305@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
