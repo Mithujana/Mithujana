@@ -25,7 +25,9 @@ Full Stack Developer
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="linkedin.com/in/mithujana-sriranjan-4324a4368">
+<a href="www.linkedin.com/in/
+mithujana-sriranjan-4324a4368
+">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
