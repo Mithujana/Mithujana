@@ -25,7 +25,7 @@ Full Stack Developer
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="linkedin.com/in/mithujana-sriranjan-4324a4368">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -68,17 +68,6 @@ Full Stack Developer
 
 ---
 
-
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mithujana&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-</p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -135,23 +124,6 @@ public class Developer {
 }
 ```
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
-</p>
-
----
 
 <div align="center">
 
