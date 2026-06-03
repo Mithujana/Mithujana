@@ -28,7 +28,7 @@ Full Stack Developer
   <a href="https://www.linkedin.com/in/mithujana-sriranjan-4324a4368/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>
+
 
 <a href="mailto:mithujanas2305@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
